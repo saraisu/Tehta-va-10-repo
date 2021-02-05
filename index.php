@@ -5,5 +5,10 @@
 <title>GitHub-sivusto</title>
 </head>
 <body>
+<?php
+{
+echo "Tervetuloa sivustolle";
+}
+?>
 </body>
 </html>

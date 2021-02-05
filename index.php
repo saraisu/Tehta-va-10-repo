@@ -11,5 +11,6 @@
 echo "Kuinka voit tänään?";
 }
 ?>
+<?php include 'footer.php';?>
 </body>
 </html>

@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>GitHub-sivusto</title>
+<title>Ystävällinen GitHub-sivusto</title>
 </head>
 <body>
 <?php
 {
-echo "Tervetuloa sivustolle";
+echo "Kuinka voit tänään?";
 }
 ?>
 </body>
